@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AntonioP22
+- 👀 I’m interested in learning a new career path!
+- 🌱 I’m currently learning HTML, CSS, JavaScript
+- 💞️ I’m looking to collaborate on anything that's out there!
+- 📫 You can always reach me at mammothsnowb@gmail.com
