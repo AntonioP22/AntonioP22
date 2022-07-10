@@ -2,4 +2,4 @@
 - 👀 I’m interested in learning a new career path!
 - 🌱 I’m currently learning HTML, CSS, JavaScript
 - 💞️ I’m looking to collaborate on anything that's out there!
-- 📫 You can always reach me at mammothsnowb@gmail.com
+- 📫 You can always reach me at antoniopdev@icloud.com
