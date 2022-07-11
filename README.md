@@ -1,14 +1,15 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
-  <a href="https://www.linkedin.com/in/antonio-paturzo-4730a5242/">
+  <a href="https://www.linkedin.com/in/antonio-paturzo-4730a5242/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://github.com/AntonioP22">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
-  <a href="https://discord.com/AntonioP22#2388">
+  <a href="https://discord.gg/VR2ndvH2mW" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+  </a>
   </div>
     <img src="https://komarev.com/ghpvc/?username=AntonioP22&style=flat-square&color=blue" alt="Profile Viewer"/>
     <h1>
