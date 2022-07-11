@@ -7,4 +7,4 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonioP22&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/AntonioP22/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonioP22&count_private=true&show_icons=true&theme=cobalt)](https://github.com/AntonioP22/github-readme-stats)
