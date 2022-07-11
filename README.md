@@ -3,4 +3,10 @@
 - 🌱 I’m currently learning HTML, CSS, JavaScript
 - 💞️ I’m looking to collaborate on anything that's out there!
 - 📫 You can always reach me at antoniopdev@icloud.com
+-
+-
+-
+
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonioP22)](https://github.com/anuraghazra/github-readme-stats)
