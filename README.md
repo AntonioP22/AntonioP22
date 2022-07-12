@@ -35,6 +35,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-paturzo-4730a5242/)
 
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=react&animation=grow_out_in&layout=default&font=Gabrielle)
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
